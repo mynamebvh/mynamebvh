@@ -13,11 +13,10 @@
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/38730c17186b005ac1045f566706367f4de74595/language_and_tools/square/c%2B%2B/c%2B%2B.svg" alt="pytorch" height="42px"/> </a> 
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/38730c17186b005ac1045f566706367f4de74595/language_and_tools/square/html/html.svg" alt="pytorch" height="42px"/> </a> 
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/38730c17186b005ac1045f566706367f4de74595/language_and_tools/square/css/css.svg" alt="pytorch" height="42px"/> </a> 
+<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/38730c17186b005ac1045f566706367f4de74595/language_and_tools/square/bootstrap/bootstrap.svg" alt="pytorch" height="42px"/> 
+
 
 <br>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynamebvh&line_height=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
