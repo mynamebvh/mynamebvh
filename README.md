@@ -29,5 +29,10 @@
 <a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/38730c17186b005ac1045f566706367f4de74595/language_and_tools/square/git-scm/git-scm.svg" alt="pytorch" height="42px"/>
 <br>
 
+<br>
+<h3 align="left">Studying</h3>
+<a href="" target="_blank"> <img align="left" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" alt="pytorch" height="42px"/>
+<a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/graphql/graphql.svg" alt="pytorch" height="42px"/>
+
 
 
