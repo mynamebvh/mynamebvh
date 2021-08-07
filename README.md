@@ -26,6 +26,7 @@
 <a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/38730c17186b005ac1045f566706367f4de74595/language_and_tools/square/redux/redux.svg" alt="pytorch" height="42px"/>
 <a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/38730c17186b005ac1045f566706367f4de74595/language_and_tools/square/firebase/firebase.svg" alt="pytorch" height="42px"/>
 <a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/38730c17186b005ac1045f566706367f4de74595/language_and_tools/square/git-scm/git-scm.svg" alt="pytorch" height="42px"/>
+ <a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/docker/docker.svg" alt="pytorch" height="42px"/>
 <br>
 
 <br><br>
