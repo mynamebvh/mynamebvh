@@ -14,13 +14,12 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/html/html.svg" alt="pytorch" height="42px"/> </a> 
-<a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/css/css.svg" alt="pytorch" height="42px"/> </a> 
+<a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/css/css.svg" alt="css" height="42px"/> </a> 
 <a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/javascript/javascript.svg" alt="javascript" height="42px"/> </a> 
-<a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/go/go.svg" alt="pytorch" height="42px"/> </a> 
-<a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/bootstrap/bootstrap.svg" alt="pytorch" height="42px"/> </a> 
-<a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/docker/docker.svg" alt="pytorch" height="42px"/> </a> 
-<a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/nginx/nginx.svg" alt="pytorch" height="42px"/> </a> 
-<a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/node/node.svg" alt="pytorch" height="42px"/> </a> 
-<a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/react/react.svg" alt="pytorch" height="42px"/> </a> 
-<a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/typescript/typescript.svg" alt="pytorch" height="42px"/> </a> 
-<a href="" target="_blank"> <img align="left" src="https://www.gitbook.com/cdn-cgi/image/height=40,fit=contain,dpr=1,format=auto/https%3A%2F%2F373165937-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-M-XEvRn3rhe8BDVGkss%252Favatar-rectangle.png%3Fgeneration%3D1582298855816936%26alt%3Dmedia" alt="pytorch" height="42px"/> </a> 
+<a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/go/go.svg" alt="golang" height="42px"/> </a> 
+<a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/docker/docker.svg" alt="docker" height="42px"/> </a> 
+<a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/nginx/nginx.svg" alt="nginx" height="42px"/> </a> 
+<a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/node/node.svg" alt="nodejs" height="42px"/> </a> 
+<a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/react/react.svg" alt="reactjs" height="42px"/> </a> 
+<a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/vue/vue.svg" alt="vuejs" height="42px"/> </a> 
+
