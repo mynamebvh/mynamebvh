@@ -16,8 +16,6 @@
 <a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/html/html.svg" alt="pytorch" height="42px"/> </a> 
 <a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/css/css.svg" alt="pytorch" height="42px"/> </a> 
 <a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/javascript/javascript.svg" alt="javascript" height="42px"/> </a> 
-<a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/java/java.svg" alt="pytorch" height="42px"/> </a> 
-
 <a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/go/go.svg" alt="pytorch" height="42px"/> </a> 
 <a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/bootstrap/bootstrap.svg" alt="pytorch" height="42px"/> </a> 
 <a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/docker/docker.svg" alt="pytorch" height="42px"/> </a> 
