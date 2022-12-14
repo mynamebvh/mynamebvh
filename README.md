@@ -8,9 +8,6 @@
 - 📫 How to reach me **mynamebvh@gmail.com**
 
 <br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynamebvh&layout=compact)]() 
-
 <h3 align="left">Languages and Tools:</h3>
 
 <a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/html/html.svg" alt="pytorch" height="42px"/> </a> 
