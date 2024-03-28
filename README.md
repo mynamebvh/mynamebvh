@@ -12,8 +12,9 @@
 
 <a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/html/html.svg" alt="pytorch" height="42px"/> </a> 
 <a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/css/css.svg" alt="css" height="42px"/> </a> 
-<a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/javascript/javascript.svg" alt="javascript" height="42px"/> </a> 
-<a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/go/go.svg" alt="golang" height="42px"/> </a> 
 <a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/docker/docker.svg" alt="docker" height="42px"/> </a> 
 <a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/vue/vue.svg" alt="vuejs" height="42px"/> </a> 
-
+<a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/javascript/javascript.svg" alt="javascript" height="42px"/> </a> 
+<a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/go/go.svg" alt="golang" height="42px"/> </a> 
+<a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Elixir-Light.svg" alt="Elixir" height="42px"/> </a> 
+<a href="" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/programming%20languages/rust.svg" alt="Rust" height="42px"/> </a> 
